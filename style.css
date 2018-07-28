@@ -49,8 +49,8 @@ body {
   background:#777777;
   color: white;
   height: 300px;
-  bottom: 0px;
-  top: 370px;
+  bottom: 10px;
+  top: 360px;
   left: 65px;
   overflow: auto;
   position: absolute;
@@ -62,9 +62,9 @@ body {
   background: #ebebeb;
   height: 60px;
   padding: 10px;
-  margin-left: -220px;
+  margin-left: -230px;
   margin-right: auto;
-  bottom: 100px;
+  bottom: 140px;
   width: 400px;
   display: inline-block;
   position: absolute;
@@ -78,8 +78,8 @@ body {
   width: 400px;
   font-size: 18px;
   position: relative;
-  left: -220px;
-  top: -180px
+  left: -230px;
+  top: -140px
 
   
 }
