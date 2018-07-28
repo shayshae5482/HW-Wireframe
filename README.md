@@ -1,2 +1,2 @@
 # HW-Wireframe
-First homework
+A simple website mockup. 
